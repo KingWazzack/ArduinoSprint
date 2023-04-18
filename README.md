@@ -23,3 +23,4 @@ Tinkercad Exercise 6:
 https://www.tinkercad.com/things/h3p1mZ4qT1F?sharecode=J21k2rzpRqha0T5-78x_p7PDQkrzq6U4jyM4Yf6MnBM
 
 Youtube Link to the video showcasing the six exercises:
+https://www.youtube.com/watch?v=hPKHW9XBrB0
