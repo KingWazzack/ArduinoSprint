@@ -2,7 +2,7 @@
 A small 2 week project on Arduino's
 
 -----------------------------------
-         NOTE FOR THOMAS
+NOTE FOR THOMAS
 -----------------------------------
 Tinkercad Exercise 1:
 https://www.tinkercad.com/things/6BRmdgUVNBg?sharecode=GVJknxhHvDWwGnCP8qgdl1gyc21n6xWQpHbiP3AuMCc
