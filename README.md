@@ -1,5 +1,5 @@
 # ArduinoSprint
-A small 2 week project on Arduino's
+A small 2 ~~week~~ day project on Arduino's
 
 -----------------------------------
 NOTE FOR THOMAS
