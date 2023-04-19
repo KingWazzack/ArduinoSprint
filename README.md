@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 #### Materials used:
 > Arduino
 
-> 2 x Dupont cables
+> 4 x Dupont cables
 
 > 2 x 5mm led
 
