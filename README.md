@@ -116,10 +116,12 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 ---
 
 ## Sources Used
+#### NightRider Example
+[Arduino Docs](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration)
+#### Code Optimalization Tips Exercise 4
+[ChatGPT](https://chat.openai.com)
 #### Temperature Sensor Conversion
 [Arduinopoint](https://arduinopoint.com/lm35-arduino-project/)
 #### Nested for Loop explanation
 [ChatGPT](https://chat.openai.com)
-#### NightRider Example
-[Arduino Docs](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration)
 
