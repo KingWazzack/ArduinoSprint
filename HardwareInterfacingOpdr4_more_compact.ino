@@ -1,8 +1,8 @@
 //Allereerst maken we twee variabelen aan
 //LedPins is een array waarin alle pin nummers staan waar onze ledjes aan hangen.
 //Aantal is de grootte van de array opgeslagen als int, die we nodig hebben voor onze for loop later.
-int ledPins[] = {13, 12, 11, 10, 9 , 8, 7};
-int aantal = sizeof(ledPins) / sizeof(int);
+const int ledPins[] = {13, 12, 11, 10, 9 , 8, 7};
+const int aantal = sizeof(ledPins) / sizeof(int);
 
 void setup() {
   //Door middel van een for loop stellen we de pinmodus in voor alle pins waar een led aan hangt.
