@@ -1,6 +1,7 @@
  ### ArduinoSprint
 #### A small 2 ~~week~~ day project on Arduino's
 
+####
 
 
 ## Youtube Showcase
@@ -110,3 +111,15 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 
 #### Tinkercad 
 [Link](https://www.tinkercad.com/things/h3p1mZ4qT1F?sharecode=J21k2rzpRqha0T5-78x_p7PDQkrzq6U4jyM4Yf6MnBM)
+
+
+---
+
+## Sources Used
+#### Temperature Sensor Conversion
+[Arduinopoint](https://arduinopoint.com/lm35-arduino-project/)
+#### Nested for Loop explanation
+[ChatGPT](https://chat.openai.com)
+#### NightRider Example
+[Arduino Docs](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration)
+
