@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 ---
 ## Project 6
 #### Schematic:
->![Schematic](https://imgur.com/0E7t53j.png)
+>![Schematic](https://i.imgur.com/gjpSFvE.png)
 
 #### Materials used:
 > Arduino
@@ -106,8 +106,6 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 > 4 x Dupont cables
 
 > 1 x RGB Led
-
-> 3 x 220 Ohm Resistor
 
 #### Tinkercad 
 [Link](https://www.tinkercad.com/things/h3p1mZ4qT1F?sharecode=J21k2rzpRqha0T5-78x_p7PDQkrzq6U4jyM4Yf6MnBM)
