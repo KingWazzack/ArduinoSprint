@@ -44,12 +44,12 @@ https://www.youtube.com/watch?v=hPKHW9XBrB0
 ---
 ## Project 3
 #### Schematic:
->![Schematic](https://imgur.com/6phUBkz.png)
+>![Schematic](https://i.imgur.com/L44H0Pi.png)
 
 #### Materials used:
 > Arduino
 
-> 7 x Dupont cables
+> 6 x Dupont cables
 
 > 8 x 5mm led
 
